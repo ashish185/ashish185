@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [SportsTable](https://www.sportstable.xyz/) -->
 
-- 🌱 I’m currently learning **Next.js, AWS, Docker, Kubernatives*
+- 🌱 I’m currently learning **Next.js, AWS, Docker, Kubernatives**
 
 - 💬 Ask me about **React,Redux, JavaScript, HTML5, CSS3**
 
