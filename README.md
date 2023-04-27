@@ -3,9 +3,9 @@
 
 <!-- - 🔭 I’m currently working on [SportsTable](https://www.sportstable.xyz/) -->
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Tailwind CSS**
+- 🌱 I’m currently learning **Next.js, AWS, Docker, Kubernatives*
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React,Redux, JavaScript, HTML5, CSS3**
 
 - 📫 How to reach me **singhalash185@gmail.com**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hqasmei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hqasmei" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ashish185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish185/" height="30" width="40" /></a>
 </p>
 
