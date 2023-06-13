@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, AWS, Docker, Kubernatives**
 
-- 💬 Ask me about **React,Redux, JavaScript, HTML5, CSS3**
+- 💬 Ask me about **React, Redux, JavaScript, HTML5, CSS3**
 
 - 📫 How to reach me **singhalash185@gmail.com**
 
